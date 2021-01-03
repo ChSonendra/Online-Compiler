@@ -7,7 +7,7 @@ thanku...
 
 STEPS TO SET UP THE THIS PROJECT  
 
-1) this project is designed to be hosted on linux system...so make sure you are on linux.
+1) this project is designed to be hosted on linux system, Amazon's ECS engine or at any cloud platform that supports container technology...so make sure for localhost, you are on linux.
 2) download and install APACHE SERVER from https://www.apachefriends.org/index.html for linux.
 3) paste the files you get out of this repository in to the /var/www/html/ folder
 4) now install docker from docker from https://docs.docker.com/get-docker/
